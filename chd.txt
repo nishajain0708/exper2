@@ -1,2 +1,6 @@
 this is a file
+<<<<<<< HEAD
 thsi is a bca file 
+=======
+this is a bba file
+>>>>>>> BBA
